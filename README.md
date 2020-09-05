@@ -1,2 +1,2 @@
-# C-21
-passing arguements in a function 
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
